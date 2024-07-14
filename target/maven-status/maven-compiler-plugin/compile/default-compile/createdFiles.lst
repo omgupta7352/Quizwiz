@@ -1,8 +1,0 @@
-com\quizwiz\quizwiz\repository\QuestionRepo.class
-com\quizwiz\quizwiz\model\Result.class
-com\quizwiz\quizwiz\controller\MainController.class
-com\quizwiz\quizwiz\model\QuestionForm.class
-com\quizwiz\quizwiz\service\QuizService.class
-com\quizwiz\quizwiz\repository\ResultRepo.class
-com\quizwiz\quizwiz\model\Question.class
-com\quizwiz\quizwiz\QuizwizApplication.class
